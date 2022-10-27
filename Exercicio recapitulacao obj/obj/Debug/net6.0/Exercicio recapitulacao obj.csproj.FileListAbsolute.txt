@@ -1,0 +1,15 @@
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\bin\Debug\net6.0\Exercicio recapitulacao obj.exe
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\bin\Debug\net6.0\Exercicio recapitulacao obj.deps.json
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\bin\Debug\net6.0\Exercicio recapitulacao obj.runtimeconfig.json
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\bin\Debug\net6.0\Exercicio recapitulacao obj.dll
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\bin\Debug\net6.0\Exercicio recapitulacao obj.pdb
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\obj\Debug\net6.0\Exercicio recapitulacao obj.csproj.AssemblyReference.cache
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\obj\Debug\net6.0\Exercicio recapitulacao obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\obj\Debug\net6.0\Exercicio recapitulacao obj.AssemblyInfoInputs.cache
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\obj\Debug\net6.0\Exercicio recapitulacao obj.AssemblyInfo.cs
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\obj\Debug\net6.0\Exercicio recapitulacao obj.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\obj\Debug\net6.0\Exercicio recapitulacao obj.dll
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\obj\Debug\net6.0\refint\Exercicio recapitulacao obj.dll
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\obj\Debug\net6.0\Exercicio recapitulacao obj.pdb
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\obj\Debug\net6.0\Exercicio recapitulacao obj.genruntimeconfig.cache
+C:\Users\Rafael Marques\source\repos\Exercicio recapitulacao obj\Exercicio recapitulacao obj\obj\Debug\net6.0\ref\Exercicio recapitulacao obj.dll
